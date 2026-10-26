@@ -13,7 +13,11 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.lab_8.ui.theme.Lab8Theme
 
+<<<<<<< HEAD
 // Making a comment
+=======
+// Adding a small change for lab-08 step 2
+>>>>>>> 83709d14be95c8505ed4ca61d5fa221c26f1a670
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
